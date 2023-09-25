@@ -6,10 +6,10 @@ I am very intrested in how OS's work in low level, what kind of concepts are use
 https://os.phil-opp.com/, and extending the programm with additional features.
 
 ## Todo
-[] Start :)
-.
-.
-.
+- [] Start :)
+- .
+- .
+- .
 
 ## Notes
 - 
